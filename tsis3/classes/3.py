@@ -1,6 +1,5 @@
 import math
 
-from tsis3.classes.classes import Square
 class Rectangle(Shape):
     def __init__(self, length, width):
         super().__init__()
